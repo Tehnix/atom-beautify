@@ -1,5 +1,5 @@
 ###
-Requires https://github.com/jaspervdj/stylish-haskell
+Requires https://crystal-lang.org/docs/installation
 ###
 
 "use strict"
